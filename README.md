@@ -1,4 +1,6 @@
-# sqliscaner
+Here’s a sample `README.md` file for your project in English. You can modify it as needed:
+
+```markdown
 # SQL Injection Scanner
 
 This project is a tool for scanning websites for SQL Injection vulnerabilities using Google Dorks and the Google Custom Search API.
@@ -9,6 +11,7 @@ This project is a tool for scanning websites for SQL Injection vulnerabilities u
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Usage](#usage)
+- [License](#license)
 - [Contributors](#contributors)
 
 ## Introduction
@@ -22,43 +25,54 @@ Before you begin, ensure you have the following prerequisites:
 - Python 3.x
 - `requests` library
 - `colorama` library
+- `marshal` library
+
 You can install the required libraries using pip:
 
 ```bash
 pip install requests colorama
+```
 
-Installation
-Clone the repository to your local machine:
+## Installation
 
-bash
-Copy code
-git clone <repository-link>
-Navigate to the project directory:
+1. Clone the repository to your local machine:
 
-bash
-Copy code
-cd <folder-name>
-Usage
+   ```bash
+   git clone <repository-link>
+   ```
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd <folder-name>
+   ```
+
+## Usage
+
 To run the tool, use the following command:
 
-bash
-Copy code
+```bash
 python <script-file-name>.py
+```
+
 Follow the prompts to input the dork, the number of results you want, and the domain (if applicable).
 
-Example user input:
-mathematica
-Copy code
+### Example user input:
+
+```
 Enter the Google Dork: inurl:index.php?id=
 Enter the number of search results: 10
 Enter the domain (optional, e.g., iq, il.com, etc.): example.com
-License
-This project is licensed under the MIT License.
+```
 
-Contributors
-[Your Name]
-vbnet
-Copy code
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## Contributors
+
+- [Your Name]
+```
 
 ### How to Use
 
@@ -68,9 +82,3 @@ Copy code
 4. Modify the parts that need customization, such as the repository link, script file name, and contributor names.
 
 If you need any changes or additions, feel free to let me know!
-
-
-
-
-
-
