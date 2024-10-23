@@ -12,7 +12,7 @@ This project is a tool for scanning websites for SQL Injection vulnerabilities u
 
 ## Introduction
 
-This tool utilizes the `requests` library to make HTTP requests, the `colorama` library to enhance terminal output, and the `marshal` library to obfuscate the code. The aim is to find vulnerable sites and query for SQL Injection vulnerabilities.
+This tool utilizes the `requests` library to make HTTP requests, the `colorama` library to enhance terminal output, and the `pycryptodome` library to obfuscate the code. The aim is to find vulnerable sites and query for SQL Injection vulnerabilities.
 
 ## Requirements
 
