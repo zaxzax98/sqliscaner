@@ -29,7 +29,7 @@ You can install the required libraries using pip:
 
 pip install requests colorama
 
-##Installation
+## Installation
 Clone the repository to your local machine:
 
 
