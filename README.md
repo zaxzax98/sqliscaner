@@ -21,7 +21,7 @@ Before you begin, ensure you have the following prerequisites:
 - Python 3.x
 - `requests` library
 - `colorama` library
-- `marshal` library
+- `pycryptodome` library
 
 You can install the required libraries using pip:
 
