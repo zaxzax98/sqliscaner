@@ -39,7 +39,7 @@ Clone the repository to your local machine:
 To run the tool, use the following command:
 
 ```bash
-python <script-file-name>.py
+python sqli.py
 ```
 
 Follow the prompts to input the dork, the number of results you want, and the domain (if applicable).
