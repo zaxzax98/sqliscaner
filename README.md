@@ -7,11 +7,10 @@ This project is a tool for scanning websites for SQL Injection vulnerabilities u
 
 ## Contents
 
-- [Introduction] (#introduction)
+- [Introduction](#introduction)
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Usage](#usage)
-- [License](#license)
 - [Contributors](#contributors)
 
 ## Introduction
@@ -38,13 +37,13 @@ pip install requests colorama
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone <repository-link>
+   git clone https://github.com/zaxzax98/sqliscaner
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd <folder-name>
+   cd sqliscaner
    ```
 
 ## Usage
@@ -65,20 +64,6 @@ Enter the number of search results: 10
 Enter the domain (optional, e.g., iq, il.com, etc.): example.com
 ```
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Contributors
+zano_security 
 
-- [Your Name]
-```
-
-### How to Use
-
-1. Copy the text above.
-2. Open a new text editor.
-3. Paste the text into it and save the file as `README.md` in your project folder.
-4. Modify the parts that need customization, such as the repository link, script file name, and contributor names.
-
-If you need any changes or additions, feel free to let me know!
