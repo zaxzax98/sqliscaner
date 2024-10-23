@@ -26,19 +26,16 @@ Before you begin, ensure you have the following prerequisites:
 
 You can install the required libraries using pip:
 
-```bash
+
 pip install requests colorama
 
-Installation
+##Installation
 Clone the repository to your local machine:
 
-bash
-Copy code
+
 git clone <repository-link>
 Navigate to the project directory:
 
-bash
-Copy code
 cd <folder-name>
 ## Usage
 
