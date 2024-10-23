@@ -31,12 +31,11 @@ pip install requests colorama
 
 ## Installation
 Clone the repository to your local machine:
+git clone https://github.com/zaxzax98/sqliscaner.git
 
-
-git clone <repository-link>
 Navigate to the project directory:
+cd sqliscaner
 
-cd <folder-name>
 ## Usage
 
 To run the tool, use the following command:
