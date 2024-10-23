@@ -35,7 +35,7 @@ Clone the repository to your local machine:
  cd sqliscaner
 
 pip install -r requirements.txt
-
+```
 ## Usage
 
 To run the tool, use the following command:
