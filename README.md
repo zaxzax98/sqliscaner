@@ -9,7 +9,6 @@ This project is a tool for scanning websites for SQL Injection vulnerabilities u
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Usage](#usage)
-- [License](#license)
 - [Contributors](#contributors)
 
 ## Introduction
@@ -23,8 +22,6 @@ Before you begin, ensure you have the following prerequisites:
 - Python 3.x
 - `requests` library
 - `colorama` library
-- `marshal` library
-
 You can install the required libraries using pip:
 
 ```bash
