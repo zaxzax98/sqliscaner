@@ -41,7 +41,7 @@ pip install -r requirements.txt
 To run the tool, use the following command:
 
 ```bash
-python sqli.py
+python zano_sqli.py
 ```
 
 Follow the prompts to input the dork, the number of results you want, and the domain (if applicable).
