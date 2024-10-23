@@ -32,8 +32,8 @@ pip install requests colorama
 ## Installation
 Clone the repository to your local machine:
 
-## git clone https://github.com/zaxzax98/sqliscaner.git
-## cd sqliscaner
+# git clone https://github.com/zaxzax98/sqliscaner.git
+# cd sqliscaner
 
 ## Usage
 
