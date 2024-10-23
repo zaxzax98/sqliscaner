@@ -1,6 +1,3 @@
-Here’s a sample `README.md` file for your project in English. You can modify it as needed:
-
-```markdown
 # SQL Injection Scanner
 
 This project is a tool for scanning websites for SQL Injection vulnerabilities using Google Dorks and the Google Custom Search API.
@@ -11,6 +8,7 @@ This project is a tool for scanning websites for SQL Injection vulnerabilities u
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Usage](#usage)
+- [License](#license)
 - [Contributors](#contributors)
 
 ## Introduction
@@ -30,7 +28,8 @@ You can install the required libraries using pip:
 
 ```bash
 pip install requests colorama
-```
+
+
 
 ## Installation
 
