@@ -33,7 +33,7 @@ Clone the repository to your local machine:
 ```bash
  git clone https://github.com/zaxzax98/sqliscaner.git
  cd sqliscaner
-
+chmod +x *
 pip install -r requirements.txt
 ```
 ## Usage
