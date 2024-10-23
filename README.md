@@ -7,7 +7,7 @@ This project is a tool for scanning websites for SQL Injection vulnerabilities u
 
 ## Contents
 
-- [Introduction](#introduction)
+- [Introduction] (#introduction)
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Usage](#usage)
